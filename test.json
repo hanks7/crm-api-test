@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "Admin-Token": "2fde6f8d8fcc4e949470fd72a8a6a25a",
+  "user": {
+    "deptName": "总部",
+    "img": null,
+    "createTime": "2022-03-30 19:10:18",
+    "lastLoginTime": "2022-06-23 01:13:57",
+    "num": "427675103379739",
+    "sex": null,
+    "mobile": "18866668888",
+    "realname": "沙陌",
+    "parentName": null,
+    "post": null,
+    "userId": 1300,
+    "parentId": null,
+    "lastLoginIp": "183.192.234.192",
+    "deptId": 1,
+    "email": null,
+    "username": "18866668888",
+    "status": 1
+  },
+  "auth": {
+    "oa": {},
+    "project": {},
+    "crm": {
+      "product": {
+        "read": true,
+        "excelexport": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "excelimport": true,
+        "status": true
+      },
+      "business": {
+        "read": true,
+        "transfer": true,
+        "teamsave": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "delete": true
+      },
+      "leads": {
+        "transform": true,
+        "read": true,
+        "transfer": true,
+        "excelexport": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "excelimport": true,
+        "delete": true
+      },
+      "contract": {
+        "discard": true,
+        "read": true,
+        "transfer": true,
+        "teamsave": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "delete": true
+      },
+      "receivables": {
+        "read": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "delete": true
+      },
+      "contacts": {
+        "read": true,
+        "transfer": true,
+        "excelexport": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "excelimport": true,
+        "delete": true
+      },
+      "customer": {
+        "read": true,
+        "transfer": true,
+        "teamsave": true,
+        "excelexport": true,
+        "save": true,
+        "update": true,
+        "index": true,
+        "lock": true,
+        "excelimport": true,
+        "dealStatus": true,
+        "putinpool": true,
+        "delete": true
+      }
+    }
+  }
+}
